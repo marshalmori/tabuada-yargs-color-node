@@ -1,0 +1,1 @@
+## O diretório saida não deve ser deletado
